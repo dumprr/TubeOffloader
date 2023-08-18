@@ -3,4 +3,8 @@
  Powered by [**PyTube**](https://pytube.io/en/latest/index.html)
 
 # Usage
-    Download the repository
+1. Download the repository
+2. Run Video.py or Playlist.py
+
+# Issues
+- Playlist videos save as .3gpp
